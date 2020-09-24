@@ -1,0 +1,1 @@
+C:\Users\Павел\PycharmProjects\Museum\venv\Scripts\pyuic5 C:/Users/Павел/PycharmProjects/Museum/auction.ui -o C:/Users/Павел/PycharmProjects/Museum/auction.py
